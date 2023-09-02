@@ -189,7 +189,13 @@
 
 <p align="center">
   <a  href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+    <a  href="https://t.me/example" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+  </a>
+      <a  href="https://t.me/example" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
 </p>
