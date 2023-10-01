@@ -125,6 +125,10 @@
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
       alt="Jest" /> 
   </a> 
+    <a href="https://mochajs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"
+      alt="Mocha" /> 
+  </a> 
 
 </p>
 
