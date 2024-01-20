@@ -186,7 +186,7 @@
 <div style="margin-top:10px" align="center">
 
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://www.linkedin.com/in/allex-antoniollo-895696174/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     <a href="https://twitter.com/example" target="_blank">
@@ -200,15 +200,16 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="https://t.me/example" target="_blank">
+  <a  href="https://t.me/allexAntoniollo" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-    <a  href="https://t.me/example" target="_blank">
+  <a  href="https://api.whatsapp.com/send?phone=55997148082" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
-      <a  href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a  href="mailto:antoniolloallex@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+
 
 </p>
 
